@@ -59,7 +59,7 @@ var baseConf = {
                 test: /\.js(x)*$/,
                 loader: 'babel',
                 include: projectRoot,
-                exclude: /node_modules[\\/](?!(zk-react)[\\/]).*/, // zk-react需要webpack构建 exclude: /node_modules\/(?!(MY-MODULE|ANOTHER-ONE)\/).*/,
+                exclude: /node_modules[\\/](?!(sx-ui)[\\/]).*/, // sx-ui需要webpack构建 exclude: /node_modules\/(?!(MY-MODULE|ANOTHER-ONE)\/).*/,
                 query: babelQuery
             },
             {

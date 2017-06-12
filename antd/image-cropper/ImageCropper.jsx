@@ -3,7 +3,7 @@ import PropTypes from 'prop-types';
 import Cropper from 'cropperjs';
 import 'cropperjs/dist/cropper.css';
 import {Row, Col, Slider, Button, Radio} from 'antd';
-import {FontIcon} from 'zk-react/antd';
+import {FontIcon} from 'sx-ui/antd';
 import {throttle} from 'lodash/function';
 import './style.less';
 
