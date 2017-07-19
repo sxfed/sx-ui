@@ -1,5 +1,6 @@
 import * as utils from './utils';
 import * as page from './page';
+import 'babel-polyfill';
 
 const actions = {
     page,
