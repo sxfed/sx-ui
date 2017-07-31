@@ -1,7 +1,7 @@
 {
   "name": "sx-ui",
   "version": "1.0.3",
-  "description": "A React.js project framework",
+  "description": "基于Ant Design的UI组件封装",
   "author": "suixingpay",
   "repository": {
     "type": "git",
