@@ -63,7 +63,7 @@ export function getItem(key) {
  */
 export function clear() {
     Storage.clear();
-};
+}
 
 /**
  * localStorage 删除数据
