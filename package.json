@@ -1,6 +1,6 @@
 {
   "name": "sx-ui",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "description": "基于Ant Design的UI组件封装",
   "author": "suixingpay",
   "repository": {
@@ -59,6 +59,7 @@
     "object-assign": "^4.1.0",
     "ora": "^0.2.0",
     "postcss-loader": "^0.9.1",
+    "redux-actions": "^2.2.1",
     "shelljs": "^0.6.0",
     "url-loader": "^0.5.7",
     "webpack": "1.14.0",
